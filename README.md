@@ -1,4 +1,4 @@
-# Learning Machine Learning & Deep Learning Concepts
+# Machine Learning & Deep Learning Concepts
 
 ## ANN
 - ANN Youtube videos - [https://www.youtube.com/playlist?list=PLA9E0359014169D37 ](https://www.youtube.com/playlist?list=PLA9E0359014169D37 )
