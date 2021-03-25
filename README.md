@@ -17,7 +17,7 @@
 - 7 types of Artificial Neural Networks for Natural Language Processing - [https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2](https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2)
 
 ## Fuzzy Logic
-- Youtube playlist - [https://www.notion.so/ANN-FL-d830316c80144fcfbca1b344b92d938d#0628a565523f46c289d3f32498fddb89](https://www.notion.so/ANN-FL-d830316c80144fcfbca1b344b92d938d#0628a565523f46c289d3f32498fddb89)
+- Youtube playlist - [https://www.youtube.com/playlist?list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k](https://www.youtube.com/playlist?list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k)
 
 ## Linear Regression
 - [https://www.youtube.com/watch?v=tFi4Y_y-GNM](https://www.youtube.com/watch?v=tFi4Y_y-GNM)
