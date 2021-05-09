@@ -16,6 +16,11 @@
 - 10 Applications of Artificial Neural Networks in Natural Language Processing - [https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a](https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a)
 - 7 types of Artificial Neural Networks for Natural Language Processing - [https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2](https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2)
 
+---
+- Introduction to Word Embedding and Word2Vec - [https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
+---
+
+
 ## Fuzzy Logic
 - Youtube playlist - [https://www.youtube.com/playlist?list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k](https://www.youtube.com/playlist?list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k)
 
