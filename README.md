@@ -27,6 +27,9 @@
 ## Fuzzy Logic
 - Youtube playlist - [https://www.youtube.com/playlist?list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k](https://www.youtube.com/playlist?list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k)
 
+## Decision Tree
+- [https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/)
+
 ## Linear Regression
 - [https://www.youtube.com/watch?v=tFi4Y_y-GNM](https://www.youtube.com/watch?v=tFi4Y_y-GNM)
 - [https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
@@ -40,6 +43,10 @@
 - [https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN](https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
 - [https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/](https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/)
 
+## Tensorflow
+- [https://www.tensorflow.org/tutorials](https://www.tensorflow.org/tutorials)
+- [https://www.tutorialspoint.com/tensorflow/index.htm](https://www.tutorialspoint.com/tensorflow/index.htm)
+- [https://www.datacamp.com/community/tutorials/tensorflow-tutorial](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
 
 ## Pytorch
 - [https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
