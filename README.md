@@ -21,6 +21,7 @@
 - Introduction to Word Embedding and Word2Vec - [https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
 - An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec - [https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 - Gensim Word2Vec Tutorial - [https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial](https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial)
+- A GloVe implementation in Python - [http://www.foldl.me/2014/glove-python/](http://www.foldl.me/2014/glove-python/)
 ---
 
 
