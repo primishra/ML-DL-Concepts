@@ -30,8 +30,11 @@
 
 ---
 ---
+## Few ML Algorithms 
 
 - Decision Tree - [https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/)
+---
+---
 
 ## Linear Regression
 - [https://www.youtube.com/watch?v=tFi4Y_y-GNM](https://www.youtube.com/watch?v=tFi4Y_y-GNM)
@@ -57,6 +60,7 @@
 - [https://github.com/gordicaleksa/pytorch-deepdream/blob/master/playground.py](https://github.com/gordicaleksa/pytorch-deepdream/blob/master/playground.py)
 - Book - [https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
+---
 ---
 
 # IISER Kolkata Materials
