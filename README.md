@@ -28,8 +28,10 @@
 ## Fuzzy Logic
 - Youtube playlist - [https://www.youtube.com/playlist?list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k](https://www.youtube.com/playlist?list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k)
 
-## Decision Tree
-- [https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/)
+---
+---
+
+- Decision Tree - [https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/)
 
 ## Linear Regression
 - [https://www.youtube.com/watch?v=tFi4Y_y-GNM](https://www.youtube.com/watch?v=tFi4Y_y-GNM)
