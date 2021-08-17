@@ -1,0 +1,11 @@
+- Natural Language Processing - Semantic Analysis - [https://www.tutorialspoint.com/natural_language_processing/natural_language_processing_semantic_analysis.htm](https://www.tutorialspoint.com/natural_language_processing/natural_language_processing_semantic_analysis.htm)
+- Semantic Analysis: What Is It & How Does It Work? - [https://monkeylearn.com/blog/semantic-analysis/](https://monkeylearn.com/blog/semantic-analysis/)
+- 10 Applications of Artificial Neural Networks in Natural Language Processing - [https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a](https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a)
+- 7 types of Artificial Neural Networks for Natural Language Processing - [https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2](https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2)
+- Machine Learning (ML) for Natural Language Processing (NLP) - [https://www.lexalytics.com/lexablog/machine-learning-natural-language-processing](https://www.lexalytics.com/lexablog/machine-learning-natural-language-processing)
+
+---
+- Introduction to Word Embedding and Word2Vec - [https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
+- An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec - [https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
+- Gensim Word2Vec Tutorial - [https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial](https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial)
+- A GloVe implementation in Python - [http://www.foldl.me/2014/glove-python/](http://www.foldl.me/2014/glove-python/)
