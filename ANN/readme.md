@@ -1,0 +1,8 @@
+- ANN Youtube videos - [https://www.youtube.com/playlist?list=PLA9E0359014169D37 ](https://www.youtube.com/playlist?list=PLA9E0359014169D37 )
+- Artificial Neural Network Tutorial - [https://www.tutorialspoint.com/artificial_neural_network/index.htm](https://www.tutorialspoint.com/artificial_neural_network/index.htm)
+- Artificial Neural Network - [https://www.youtube.com/playlist?list=PLhdVEDm7SZ-PdtzOkXWb6xyAPxFInnpx-](https://www.youtube.com/playlist?list=PLhdVEDm7SZ-PdtzOkXWb6xyAPxFInnpx-)
+- Neural Networks from Scratch with Python Code and Math in Detail— I - [https://pub.towardsai.net/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf](https://pub.towardsai.net/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
+- Building Neural Networks with Python Code and Math in Detail — II - [https://pub.towardsai.net/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1](https://pub.towardsai.net/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
+- Your First Deep Learning Project in Python with Keras Step-By-Step - [https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+- How to Code a Neural Network with Backpropagation In Python (from scratch) - [https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+- How to Create a Simple Neural Network in Python - [https://www.kdnuggets.com/2018/10/simple-neural-network-python.html](https://www.kdnuggets.com/2018/10/simple-neural-network-python.html)
