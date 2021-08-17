@@ -1,0 +1,3 @@
+- [https://www.tensorflow.org/tutorials](https://www.tensorflow.org/tutorials)
+- [https://www.tutorialspoint.com/tensorflow/index.htm](https://www.tutorialspoint.com/tensorflow/index.htm)
+- [https://www.datacamp.com/community/tutorials/tensorflow-tutorial](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
