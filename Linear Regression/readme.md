@@ -1,0 +1,6 @@
+- [https://www.youtube.com/watch?v=tFi4Y_y-GNM](https://www.youtube.com/watch?v=tFi4Y_y-GNM)
+- [https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
+- [https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2](https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2)
+- [https://www.upgrad.com/blog/types-of-regression-models-in-machine-learning/](https://www.upgrad.com/blog/types-of-regression-models-in-machine-learning/)
+- [https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-beginners-with-implementation-in-python/](https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-beginners-with-implementation-in-python/)
+- [https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
