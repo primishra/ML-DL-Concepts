@@ -1,0 +1,4 @@
+- [https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- [https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+- [https://github.com/gordicaleksa/pytorch-deepdream/blob/master/playground.py](https://github.com/gordicaleksa/pytorch-deepdream/blob/master/playground.py)
+- Book - [https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
