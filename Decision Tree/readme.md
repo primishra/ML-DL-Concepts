@@ -4,3 +4,4 @@
 --
 
 - Random Forest - [https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
+- Ensemble methods: bagging, boosting and stacking - [https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
